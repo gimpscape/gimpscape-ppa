@@ -150,12 +150,12 @@ Version: 2.1.3
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
 Installed-Size: 18
-Depends: inkscape, ghostscript, libsrvg2-bin, webp
+Depends: inkscape, ghostscript, librsvg2-bin, webp
 Filename: ./inkporter_2.1.3_amd64.deb
-Size: 4192
-MD5sum: eac471e2049982ce64e4bfc658d21c7b
-SHA1: 1f12452a3140e961a641a5d1151e43fc378b7f50
-SHA256: fb3124e7803b6fc8a1b5b074b7edab84e3e52a5413e381a253883c41fadbed56
+Size: 4212
+MD5sum: fdd5bd0547f0debfb07545355505adee
+SHA1: a5739991803ddc6b3875d6d115519d0ec7828bb7
+SHA256: f8c287518e98dd0458ccb2f82ef0a0d78f0e3b2b3ea8118ccb618dbf7676bf2e
 Section: misc
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>
