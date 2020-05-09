@@ -208,3 +208,21 @@ Description: Exporter script for Inkscape's SVG
  or Inkscape user who need multiple page or multi artboard feature
  this script is for you.
 
+Package: pdf-extractor
+Version: 1.0.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 14
+Depends: inkscape, pdftk, ghostscript
+Filename: ./pdf-extractor_1.0.1_amd64.deb
+Size: 2660
+MD5sum: 7c937b575e846aac20135d9e9851898f
+SHA1: 1728ea84d91154c18468ba40938799188101a778
+SHA256: 77ee1ba2fb3d7b6504fa79986649a59794da3078da588f102cdb547774aa1a64
+Section: utils
+Priority: optional
+Homepage: https://github.com/raniaamina/pdf-extractor
+Description: PDF Extractor
+ PDF Extractor is simple bash script to help you
+ extracting PDF pages from one PDF file.
+
