@@ -4,8 +4,7 @@
 
 - inkporter by Rania Amina 
   - [1.7.1 for inkscape 0.92.x](tools/inkporter_1.7.1_amd64.deb)
-  - [2.x for inkscape 1.0](tools/inkporter_2.1.3_amd64.deb)
-
+  - [2.x for inkscape 1.0](tools/inkporter_2.2.1_amd64.deb)
 
 ## How to use:
 
@@ -16,4 +15,5 @@
 `sudo apt update`
 
 ## Reference how to host repo on Github
+
 - https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html
