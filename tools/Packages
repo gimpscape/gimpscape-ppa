@@ -135,6 +135,23 @@ Homepage: <https://github.com/artemtech/inkscape-multicalendar>
 Description: Multicalendar for Inkscape
  Inkscape extension to create multicalendar quickly
 
+Package: multicalendar
+Version: 1.1.7
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 46
+Depends: python3-pip
+Filename: ./multicalendar_1.1.7_amd64.deb
+Size: 8516
+MD5sum: 86352c512d3f5d071b6cadff1b226aca
+SHA1: 8036d5c8829d5d6242fb1ab35cc4b624637ddbee
+SHA256: cd67da9132349fc1bdb09374cfdd562d5f4270a1a683921a8d3b089e2679e470
+Section: utils
+Priority: optional
+Homepage: <https://github.com/artemtech/inkscape-multicalendar>
+Description: Multicalendar for Inkscape
+ Inkscape extension to create multicalendar quickly
+
 Package: pdf-extractor
 Version: 1.0.1
 Architecture: amd64
