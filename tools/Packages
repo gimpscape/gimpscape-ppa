@@ -109,10 +109,10 @@ Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
 Installed-Size: 46
 Filename: ./multicalendar_1.1.1_amd64.deb
-Size: 8384
-MD5sum: 4c4271b8f1f35a86eb4276876a44b13f
-SHA1: 1d0244aa06fdf057910b9e25d916a6b5f821447d
-SHA256: 7f5c7c9ee0d54faa568cf9a8df1a63028c5f6cee9ec66d90f7836f7a3f73d368
+Size: 8388
+MD5sum: 7e59ee1eb6d822838c12de30fc231b60
+SHA1: 9aa9467a3819b9bf9479c6b88c3eda477b3a3c6a
+SHA256: ad2184239aff8bf6b5aded4d20a6a7c2eaf900e421373b45e3bb66270b44a0b4
 Section: utils
 Priority: optional
 Homepage: <https://github.com/artemtech/inkscape-multicalendar>
