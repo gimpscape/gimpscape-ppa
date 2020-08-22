@@ -104,16 +104,16 @@ Description: Exporter script for Inkscape's SVG
  this script is for you.
 
 Package: multicalendar
-Version: 1.1.9
+Version: 1.1.11
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 48
+Installed-Size: 50
 Depends: python3-pip
-Filename: ./multicalendar_1.1.9_amd64.deb
-Size: 8868
-MD5sum: 0490bbb8f47089625bcfee8e7a511c69
-SHA1: f91fc255e171d465197813e3c8d794a05717f050
-SHA256: 662b9243e249437d934c83a9d43c481cd2fc2596d20e6ef65dab9da1cd049ed2
+Filename: ./multicalendar_1.1.11_amd64.deb
+Size: 9128
+MD5sum: 5a1eb932671514e7756536628929e609
+SHA1: 848620dbb4433a5426d218ee2f4a87019bc7216f
+SHA256: 564e333792520a07d3d86264543088a134130188261f10fff39ea52a07d72c1a
 Section: utils
 Priority: optional
 Homepage: <https://github.com/artemtech/inkscape-multicalendar>
