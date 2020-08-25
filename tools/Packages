@@ -107,13 +107,13 @@ Package: inkporter
 Version: 2.3.1
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 141
+Installed-Size: 138
 Depends: inkscape, ghostscript, webp
 Filename: ./inkporter_2.3.1_amd64.deb
-Size: 25960
-MD5sum: 1339127a888c8abc776b602221dbfa0d
-SHA1: 413de74bc95b254756e5e205538f4de38b3b3188
-SHA256: 737353c56682a5ddc3e91f26c6cb403f2f21a8cad4e875963e9a4d3bc5fc6da4
+Size: 25900
+MD5sum: f940db2f8e163bbf91f2a640258dc612
+SHA1: fb7cca725433638ebafb4c0d2de5b3ac52cc0955
+SHA256: 21f8978b8cf2ddf2dcfaeb241eee9cc84148a3ee85c4f3d9d1d47ca00aa9a22d
 Section: misc
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>
