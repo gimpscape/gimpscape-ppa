@@ -103,6 +103,27 @@ Description: Exporter script for Inkscape's SVG
  or Inkscape user who need multiple page or multi artboard feature
  this script is for you.
 
+Package: inkporter
+Version: 2.4.5
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 140
+Depends: inkscape, ghostscript, webp
+Filename: ./inkporter_2.4.5_amd64.deb
+Size: 26272
+MD5sum: 0b48e7ab13545a3ff108318a9ee4f91c
+SHA1: 4740d1abeace97bb3c49c6cfb14fea40f8eb0c81
+SHA256: 99dc21ef68ffa7119ae915ef043415baf3cf7bb43be357f860de41b2557b66d2
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Exporter script for Inkscape's SVG
+ This script will allow you export inkscape SVG to various format
+ such as PNG, SVG, EPS, PDF, and PDF CMYK with object ID pattern
+ as rule. If you're icon designer, book designer, web/ui designer
+ or Inkscape user who need multiple page or multi artboard feature
+ this script is for you.
+
 Package: multicalendar
 Version: 1.2.1
 Architecture: amd64
