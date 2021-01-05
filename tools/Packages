@@ -194,3 +194,21 @@ Description: PDF Extractor
  PDF Extractor is simple bash script to help you
  extracting PDF pages from one PDF file.
 
+Package: pdf-extractor
+Version: 2.1.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 16
+Depends: inkscape, pdftk, ghostscript
+Filename: ./pdf-extractor_2.1.1_amd64.deb
+Size: 3300
+MD5sum: ff7cb976730b99b629d75ce64ab88d1c
+SHA1: 7e5fa29ef240904ee005bc1000ac680b9a727f79
+SHA256: 56446bb900b623ae964350feb8171510b73a1e385bdf07991d89ff2ad7beb9b2
+Section: utils
+Priority: optional
+Homepage: https://github.com/raniaamina/pdf-extractor
+Description: PDF Extractor
+ PDF Extractor is simple bash script to help you
+ extracting PDF pages from one PDF file.
+
