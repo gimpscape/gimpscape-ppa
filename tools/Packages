@@ -158,6 +158,23 @@ Homepage: <https://github.com/artemtech/inkscape-multicalendar>
 Description: Multicalendar for Inkscape
  Inkscape extension to create multicalendar quickly
 
+Package: pasopati
+Version: 0.2.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 22
+Depends: zenity, imagemagick
+Filename: ./pasopati_0.2.1_amd64.deb
+Size: 8032
+MD5sum: 4cce9ed33e05963a5eb9bde1788d395c
+SHA1: 1145f9e6cdf77ff91631f264fe86f781e2320f86
+SHA256: ba87f4867fbb56eeac9d9de3da46d231d2a52863b6abdf05b5c1e35ddf24e1f3
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
 Package: pdf-extractor
 Version: 1.0.1
 Architecture: amd64

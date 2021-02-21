@@ -11,6 +11,9 @@
 
 - PDF-Extractor by Rania Amina
   - [PDF Extractor](tools/pdf-extractor_2.1.1_amd64.deb)
+  
+- Pasopati: Bulk Resizer by Rania Amina
+  - [Pasopati](tools/pasopati_0.2.1_amd64.deb)
 
 ## How to use:
 
