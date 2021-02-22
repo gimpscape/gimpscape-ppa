@@ -175,6 +175,23 @@ Homepage: https://dev-is.my.id
 Description: bulk export tool
  Simple risezer tool for JPG and PNG
 
+Package: pasopati
+Version: 1.2.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 22
+Depends: zenity, imagemagick
+Filename: ./pasopati_1.2.1_amd64.deb
+Size: 8304
+MD5sum: 0e2c14057b494822f76096487d9fb932
+SHA1: f365fd218743e1ce2da5da80d9f56edd7b137c3c
+SHA256: 43692fd4d7a7aeabeff12e597af1dd8ad9d856d844f54c4dcc70f7281d4477a0
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
 Package: pdf-extractor
 Version: 1.0.1
 Architecture: amd64
