@@ -176,40 +176,6 @@ Description: bulk export tool
  Simple risezer tool for JPG and PNG
 
 Package: pasopati
-Version: 1.3.3
-Architecture: amd64
-Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 23
-Depends: yad, imagemagick
-Filename: ./pasopati_1.3.3_amd64.deb
-Size: 8588
-MD5sum: 857b2a3df9b39a873bf29154bae5f46a
-SHA1: 8e7b9f1a60965d35ed68dfcaa76fe7f91df95921
-SHA256: 8b7b20953a65bbb1996f113fadc2a7688328f8790ff7666d8f15805a9f2e0260
-Section: utils
-Priority: optional
-Homepage: https://dev-is.my.id
-Description: bulk export tool
- Simple risezer tool for JPG and PNG
-
-Package: pasopati
-Version: 1.3.5
-Architecture: amd64
-Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 23
-Depends: yad, imagemagick
-Filename: ./pasopati_1.3.5_amd64.deb
-Size: 8628
-MD5sum: bafbb12d6b017ba8ee9219492e1b4245
-SHA1: a519fcc854ddff3b6c74b5b0199799ebcf72c912
-SHA256: 2a592bef5e49939f4b2370aa23d8a0eca894ab4136cea9c12618b18f17c86e77
-Section: utils
-Priority: optional
-Homepage: https://dev-is.my.id
-Description: bulk export tool
- Simple risezer tool for JPG and PNG
-
-Package: pasopati
 Version: 1.5.0
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
@@ -220,6 +186,23 @@ Size: 9464
 MD5sum: d81a7a4e8c12374b486fd970bc40556e
 SHA1: dbd4c93a131ef0fe70cfaa493529b3eb6d042826
 SHA256: 54164cf074b06a49b9ff4ec2cab7fcb8d7edede5fe5fdb882840e89d4a9c113c
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
+Package: pasopati
+Version: 1.7.0
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 26
+Depends: yad, imagemagick
+Filename: ./pasopati_1.7.0_amd64.deb
+Size: 9712
+MD5sum: 0ce2cceb4e1ec8e82dbbf33827e1dda5
+SHA1: e14ff18cb0c4869abd0a705068f26427bc8a3487
+SHA256: 0ed1a2689df40642e8e77e3c5776a73aad28a1e138287be7f72b2a79a41e3936
 Section: utils
 Priority: optional
 Homepage: https://dev-is.my.id
