@@ -17,7 +17,7 @@
 
 - Pasopati by Devlovers ID
   
-  - [Pasopati](tools/pasopati_1.9.7_amd64.deb)
+  - [Pasopati](tools/pasopati_2.1.1_amd64.deb)
 
 For complete available package and details, please refer to [Packages File](tools/Packages).
 
