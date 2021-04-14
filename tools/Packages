@@ -1,14 +1,14 @@
 Package: citramanik-qt
-Version: 1.0.1-2
+Version: 1.1.0-0
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
 Installed-Size: 80667
 Depends: inkscape (>= 1.0), ghostscript
 Filename: ./citramanik-qt-1.1.0-0-x86_64-bullseye.deb
-Size: 81194932
-MD5sum: 7be41f2351726a1f610795f8cebefe4f
-SHA1: 4acf1ff05a95fab68799253ef7b0193caa956dc1
-SHA256: 31e44a6b62ad8d01b095ea793b84d95af7cbbfcbe0fb2ff2104aab170eeee57f
+Size: 81194336
+MD5sum: 8fdbbeeea744f432a94bddfe3a0894ab
+SHA1: f9eb4d0d0e769c98a2bf37395c6caa65c2a2ea9e
+SHA256: 7dc16c455e2c8e62f26ea00e0457f606ca6196bf28acaac7223ac18699b95170
 Section: Graphics
 Priority: optional
 Homepage: https://github.com/devlovers-id/citramanik-qt
