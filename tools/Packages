@@ -22,30 +22,6 @@ Description: More Export, Less Effort
  you are working with artboards or multiple pages
  in Inkscape.
 
-Package: citramanik-qt
-Version: 1.1.0-0bionic1
-Architecture: amd64
-Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 67210
-Depends: inkscape (>= 1.0), ghostscript
-Filename: ./citramanik-qt-1.1.0-0-x86_64-bionic.deb
-Size: 67747696
-MD5sum: 695866c3107f57b09e235364dc49d6e8
-SHA1: 4ef7b3dd606a91193b4df76a51868258870cb000
-SHA256: 1d0d3c73536529b790c7fff27eccbec6b2fc85d74e2c5576fd1f790004281fd2
-Section: Graphics
-Priority: optional
-Homepage: https://github.com/devlovers-id/citramanik-qt
-Description: More Export, Less Effort
- Citramanik is a powerful tool to help
- your productivity with Inkscape. This tool
- will reads ID patterns (i.e icon-small,
- page-medium, page-big, etc) that you've set
- and then exports them to the file format that
- you need. Citramanik allows you to feel like
- you are working with artboards or multiple pages
- in Inkscape.
-
 Package: inkporter
 Version: 1.7.1
 Architecture: amd64
