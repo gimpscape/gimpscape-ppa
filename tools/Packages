@@ -46,6 +46,25 @@ Description: More Export, Less Effort
  you are working with artboards or multiple pages
  in Inkscape.
 
+Package: fontfinder
+Version: 2.0-1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 2711
+Filename: ./fontfinder_2.0-1_amd64.deb
+Size: 962384
+MD5sum: 74de0fad3b492cdb0b0decdbfaee1e61
+SHA1: 0dd8b76d1fc0bf6d139b604360230cbb3607cf15
+SHA256: 659e9b67fd98822d20d06d7c95b80220bcf5256d2303bb0c11e08ddef9385fcb
+Section: graphics
+Priority: optional
+Homepage: https://github.com/mmstick/fontfinder
+Description: GTK application for browsing and installing fonts
+ from Google's font archive. This project is a from-scratch implementation of
+ TypeCatcher in Rust. It is a GTK3 application for browsing through
+ and installing fonts from Google's font archive from
+ the comfort of your Linux desktop.
+
 Package: inkporter
 Version: 1.7.1
 Architecture: amd64
@@ -205,6 +224,74 @@ Priority: optional
 Homepage: <https://github.com/artemtech/inkscape-multicalendar>
 Description: Multicalendar for Inkscape
  Inkscape extension to create multicalendar quickly
+
+Package: pasopati
+Version: 0.2.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 22
+Depends: zenity, imagemagick
+Filename: ./pasopati_0.2.1_amd64.deb
+Size: 8032
+MD5sum: 4cce9ed33e05963a5eb9bde1788d395c
+SHA1: 1145f9e6cdf77ff91631f264fe86f781e2320f86
+SHA256: ba87f4867fbb56eeac9d9de3da46d231d2a52863b6abdf05b5c1e35ddf24e1f3
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
+Package: pasopati
+Version: 1.5.0
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 25
+Depends: yad, imagemagick
+Filename: ./pasopati_1.5.0_amd64.deb
+Size: 9464
+MD5sum: d81a7a4e8c12374b486fd970bc40556e
+SHA1: dbd4c93a131ef0fe70cfaa493529b3eb6d042826
+SHA256: 54164cf074b06a49b9ff4ec2cab7fcb8d7edede5fe5fdb882840e89d4a9c113c
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
+Package: pasopati
+Version: 1.9.7
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 30
+Depends: yad, imagemagick, pngquant, parallel
+Filename: ./pasopati_1.9.7_amd64.deb
+Size: 10772
+MD5sum: 80f9870fff54b52cadf6c3c52345e3ae
+SHA1: e70b470266e8305f262ce130ffb58070a51993a5
+SHA256: f0ed13be72eb50c4bc086545c13dc62a221335dfcdb0c707b46ad8f2aa742c3a
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
+Package: pasopati
+Version: 2.1.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 32
+Depends: yad, imagemagick, pngquant, parallel
+Filename: ./pasopati_2.1.1_amd64.deb
+Size: 10936
+MD5sum: ad341b8f542c08430ce00bd0bb7f3718
+SHA1: d6977ffb84b91fa37517b01a01a7c9814fbad1ce
+SHA256: a0bcb8a742e60e3a25239c462fa84c559a8fbb07a6dc99acceb6742c1418533a
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
 
 Package: pdf-extractor
 Version: 1.0.1
