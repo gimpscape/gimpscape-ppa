@@ -2,12 +2,12 @@ Package: fontfinder
 Version: 2.0-1
 Architecture: amd64
 Maintainer: Rania Amina <reaamina@gmail.com>
-Installed-Size: 2711
+Installed-Size: 2755
 Filename: ./fontfinder_2.0-1_amd64.deb
-Size: 962384
-MD5sum: 74de0fad3b492cdb0b0decdbfaee1e61
-SHA1: 0dd8b76d1fc0bf6d139b604360230cbb3607cf15
-SHA256: 659e9b67fd98822d20d06d7c95b80220bcf5256d2303bb0c11e08ddef9385fcb
+Size: 981656
+MD5sum: 3272a92b508fc3baef4bb08f81294181
+SHA1: b7296521ec623dbf765681aa439203b68a995ffa
+SHA256: 65c08db9d59c6d1c93ad67aef901d7517b7fd8c41850e93a22e2137ac6d1123a
 Section: graphics
 Priority: optional
 Homepage: https://github.com/mmstick/fontfinder
