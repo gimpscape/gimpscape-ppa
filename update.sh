@@ -19,6 +19,7 @@ dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages
 
 apt-ftparchive release . > Release
+sed -i '1s/^/Origin: Debian \nLabel: Debian \nSuite: unstable \nCodename: sid \n/' Release
 gpg --default-key "me@raniaaamina.id" -abs -o - Release > Release.gpg
 gpg --default-key "me@raniaamina.id" --clearsign -o - Release > InRelease
 
