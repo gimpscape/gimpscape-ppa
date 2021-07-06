@@ -4,15 +4,19 @@
 
 Here is available packages from Gimpscape Repository
  - Inkporter by Rania Amina 
-    `sudo apt install inkporter`
+    <br>`sudo apt install inkporter`<br>
+    
  - Multicalendar by Artemtech
-    `sudo apt install multicalendar`
+    <br>`sudo apt install multicalendar`<br>
+    
  - PDF-Extractor by Rania Amina
-    `sudo apt install pdf-extractor`
+    <br>`sudo apt install pdf-extractor`<br>
+    
  - Pasopati by Devlovers ID
-    `sudo apt install pasopati`
+    <br>`sudo apt install pasopati`<br>
+    
  - Font Finder by Devlovers ID
-    `sudo apt install fontfinder`
+    <br>`sudo apt install fontfinder`<br>
 
 
 For complete available package and details, please refer to Packages file
