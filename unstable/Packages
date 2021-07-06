@@ -1,14 +1,14 @@
 Package: citramanik-qt
-Version: 1.1.2
+Version: 1.1.2-unstable
 Architecture: amd64
 Maintainer: Sofyan Sugianto <sofyanartem@gmail.com>
 Installed-Size: 3562
 Depends: inkscape (>= 1.0), ghostscript, python3-appdirs, python3-lxml, python3-pil, python3-pyqt5, python3:any (>= 3.7~)
-Filename: ./citramanik-qt_1.1.2_amd64.deb
-Size: 603620
-MD5sum: 6d7d3e189f9b1f5d6ddf798ea4712d1b
-SHA1: 29e31fc111ba404295e29d2e197e7a55d9a978fd
-SHA256: 2becb16bebe8bf63efd2210636561450cf47e439a86a749b992d8e32cb1e670e
+Filename: ./citramanik-qt_1.1.2-unstable_amd64.deb
+Size: 603640
+MD5sum: 587428fad10a1a8dd1b06869e489fef4
+SHA1: c68e95514cd9cbca4aa0547b6b32c29f5fe8108e
+SHA256: cad1e852d75fae5f9e65ef90dfa23d9c4abc842a53dafb9710ff6c4b53292dd7
 Section: Graphic
 Priority: optional
 Homepage: https://github.com/devlovers-id/citramanik-qt
