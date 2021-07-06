@@ -16,3 +16,95 @@ Description: More Export, Less Effort
  Citramanik is a powerful tool to help
  your productivity with Inkscape.
 
+Package: fontfinder
+Version: 2.0-1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 2755
+Filename: ./fontfinder_2.0-1_amd64.deb
+Size: 981656
+MD5sum: 3272a92b508fc3baef4bb08f81294181
+SHA1: b7296521ec623dbf765681aa439203b68a995ffa
+SHA256: 65c08db9d59c6d1c93ad67aef901d7517b7fd8c41850e93a22e2137ac6d1123a
+Section: graphics
+Priority: optional
+Homepage: https://github.com/mmstick/fontfinder
+Description: GTK application for browsing and installing fonts
+ from Google's font archive. This project is a from-scratch implementation of
+ TypeCatcher in Rust. It is a GTK3 application for browsing through
+ and installing fonts from Google's font archive from
+ the comfort of your Linux desktop.
+
+Package: inkporter
+Version: 2.4.5
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 140
+Depends: inkscape, ghostscript, webp
+Filename: ./inkporter_2.4.5_amd64.deb
+Size: 26272
+MD5sum: 0b48e7ab13545a3ff108318a9ee4f91c
+SHA1: 4740d1abeace97bb3c49c6cfb14fea40f8eb0c81
+SHA256: 99dc21ef68ffa7119ae915ef043415baf3cf7bb43be357f860de41b2557b66d2
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Exporter script for Inkscape's SVG
+ This script will allow you export inkscape SVG to various format
+ such as PNG, SVG, EPS, PDF, and PDF CMYK with object ID pattern
+ as rule. If you're icon designer, book designer, web/ui designer
+ or Inkscape user who need multiple page or multi artboard feature
+ this script is for you.
+
+Package: multicalendar
+Version: 1.3.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 59
+Depends: python3-pip
+Filename: ./multicalendar_1.3.1_amd64.deb
+Size: 10492
+MD5sum: ae963a6d130c1a8ae34dda6705a36e53
+SHA1: 480d9c1c6838fba04c9738d8cabe30ac456c302e
+SHA256: 0148099691c66d433fb0310e91a2b3b2b4433e796bc87961afa2f38b6a2d94d4
+Section: utils
+Priority: optional
+Homepage: <https://github.com/artemtech/inkscape-multicalendar>
+Description: Multicalendar for Inkscape
+ Inkscape extension to create multicalendar quickly
+
+Package: pasopati
+Version: 2.1.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 32
+Depends: yad, imagemagick, pngquant, parallel
+Filename: ./pasopati_2.1.1_amd64.deb
+Size: 10936
+MD5sum: ad341b8f542c08430ce00bd0bb7f3718
+SHA1: d6977ffb84b91fa37517b01a01a7c9814fbad1ce
+SHA256: a0bcb8a742e60e3a25239c462fa84c559a8fbb07a6dc99acceb6742c1418533a
+Section: utils
+Priority: optional
+Homepage: https://dev-is.my.id
+Description: bulk export tool
+ Simple risezer tool for JPG and PNG
+
+Package: pdf-extractor
+Version: 2.1.1
+Architecture: amd64
+Maintainer: Rania Amina <reaamina@gmail.com>
+Installed-Size: 16
+Depends: inkscape, pdftk, ghostscript
+Filename: ./pdf-extractor_2.1.1_amd64.deb
+Size: 3300
+MD5sum: ff7cb976730b99b629d75ce64ab88d1c
+SHA1: 7e5fa29ef240904ee005bc1000ac680b9a727f79
+SHA256: 56446bb900b623ae964350feb8171510b73a1e385bdf07991d89ff2ad7beb9b2
+Section: utils
+Priority: optional
+Homepage: https://github.com/raniaamina/pdf-extractor
+Description: PDF Extractor
+ PDF Extractor is simple bash script to help you
+ extracting PDF pages from one PDF file.
+
