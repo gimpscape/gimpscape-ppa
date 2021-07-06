@@ -39,21 +39,22 @@ curl -s --compressed "https://gimpscape.github.io/gimpscape-ppa/tools/KEY.gpg" |
 
 # step 2
 # Sesuaikan dengan distro yang digunakan!
+# Only choose compatible repo for your distro
 # Jangan dijalankan semua
 
-# Untuk Debian Unstable
+# For Debian Unstable
 sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/unstable/gimpscape-ppa.list"
 
-# Untuk Debian Buster & Turunannya
+# For Debian Buster & Derivated
 sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/buster/gimpscape-ppa.list"
 
-# untuk Debian Bullseye & Turunannya
+# For Debian Bullseye & Derivated
 sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/bullseye/gimpscape-ppa.list"
 
-# Untuk Ubuntu Bionic & Turunannya
+# For Ubuntu Bionic & Derivated
 sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/bionic/gimpscape-ppa.list"
 
-# Untuk Ubuntu Focal & Turunannya
+# For Ubuntu Focal & Derivated
 sudo curl -s --compressed -o /etc/apt/sources.list.d/gimpscape-ppa.list "https://gimpscape.github.io/gimpscape-ppa/focal/gimpscape-ppa.list"
 
 
