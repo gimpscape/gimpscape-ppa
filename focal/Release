@@ -2,20 +2,20 @@ Origin: Ubuntu
 Label: Ubuntu 
 Suite: focal 
 Codename: focal 
-Date: Tue, 06 Jul 2021 14:50:42 +0000
+Date: Sat, 17 Jul 2021 22:50:44 +0000
 MD5Sum:
- 4f46c78e6c1df3022fd7e7faecddb5aa             3141 Packages
- df360aa1d4e4f308282bb1490f1462fb             1438 Packages.gz
- 46454a7e5f2a751904a620b16f5f74d5               38 Release
+ 12913bb0a92578619468e6b11ee6ea23             3994 Packages
+ 34926f69ebbc569c5a40f031d1c3b5a3             1841 Packages.gz
+ d02e87a467deedd794cb52cb85f09fb6               38 Release
 SHA1:
- 7b997054585d9823b33c6296e6ad6f80c9cfae0e             3141 Packages
- 0cbb7283def6fc08bac7936f65bf7ca1a8b59c87             1438 Packages.gz
- d2930f36085370ab995bd9de351bb5901f749be7               38 Release
+ 8020fe490dadb56eeffbac4873e9c341bc12236a             3994 Packages
+ 69a988d7e4d214218281a8c7a204f5ea70eb2a50             1841 Packages.gz
+ 066a5cc646102fcd209f4bdaefcdd681a8230c7d               38 Release
 SHA256:
- 36615b92c0ab36109155983197131429b8f345ad2b1a90383799007ec27aa36c             3141 Packages
- 80c948a73562f83c9dfa1e1b0143c32e8c6acc6ff2e1eecef93cb7189f5491e1             1438 Packages.gz
- afa8c5fa9be1ee7310fbe6503e7d0d5f0191336406d9a09dce5da0169d26feaf               38 Release
+ 4846bc81e32b475c3ffe8569726a7f3d0b821ec69c8c1557b3ffa1d2d06f8976             3994 Packages
+ 96b81d43ef3cfc059f840a12d0cc9e781a63cd88035dde3515ef0d7a8e1eb79c             1841 Packages.gz
+ e34c5034449480d26859a5891d02c2fa8503f0319bde197d41a3303748bd89c3               38 Release
 SHA512:
- aecea78492d69fc7d3848c75a6ffcf64dbaaffd51a18010a23b742d51c80e56214182eb387f5df3b3a572c0ff102045774991d0b53b67723b8ce19b0247024b8             3141 Packages
- 5fd351e4091ab57a19c4ea07cfc652e574d502eccd6eef4b2c58b1f290f779f43647856b55a4eb111bc16e4f65edbfcce3de81a2e1caf442ea969b28585d59e8             1438 Packages.gz
- 721c21f5b29c0b1f549e74b36ac34f0193b4919efb3ab2bfd7773bd9b771d80f0bb4f9f8cfb53b2e621abb8ceb8d9641b5f11dbdba25db14b520d5a88b9ca423               38 Release
+ 7e6c137c7f1c39a73abe982401cec67b7760777f8ced9de3703c88e690e970328bc3d84357bc1be52b1052b3d7f633c3ed0c0fed29fad1ba7ad14886e0a024f8             3994 Packages
+ 8779d9d1c4d2c86ced5ada7a379e962a496e277ae9b3eb85b005e22cf4327fbdcb99ce5fab2037cc02e0d0f5682a48191426dd1b76d2d85751d355c8b8ff770c             1841 Packages.gz
+ 77d58f58df93e88200a59b36210223430ed0e0c7613b8d9a5efc5728d9b311ce44e1ca3c1f5d2f69b8e2ba8ff10bc3c5efe0e0977b112c41aa7bafa9a0bfc4f0               38 Release

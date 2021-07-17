@@ -22,6 +22,10 @@ Here is available packages from Gimpscape Repository
  - Font Finder by Devlovers ID
     
     `sudo apt install fontfinder`
+    
+ - Key-mon ported to Python 3 by scottkirkwood
+    
+    `sudo apt install key-mon`
 
 
 For complete available package and details, please refer to Packages file
