@@ -23,7 +23,7 @@ Here is available packages from Gimpscape Repository
     
     `sudo apt install fontfinder`
     
- - Key-mon ported to Python 3 by scottkirkwood
+ - Key-mon ported to Python 3 by [scottkirkwood](https://github.com/scottkirkwood/key-mon)
     
     `sudo apt install key-mon`
 
