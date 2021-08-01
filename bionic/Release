@@ -2,20 +2,20 @@ Origin: Ubuntu
 Label: Ubuntu 
 Suite: bionic 
 Codename: bionic 
-Date: Sun, 01 Aug 2021 14:44:40 +0000
+Date: Sun, 01 Aug 2021 14:45:02 +0000
 MD5Sum:
  c1872484616078b0049bc074c7ba10f6             4954 Packages
- 1fb281096554336525a52ae9d81f3e82             2251 Packages.gz
- 0c1a31fa90d632296c393a41a66849f6               38 Release
+ 723f3d3a4a238fd558f98a5c9c7d3a30             2251 Packages.gz
+ 3e79e0216594e538279eb4a673600da0               38 Release
 SHA1:
  e981b9b6910a7bf240a98ec9aa95581d0974de80             4954 Packages
- 14916a96f9445e610393dce70f65d0f88c63abef             2251 Packages.gz
- cc5dc1501f0f0a199781346b0535bd17571c9580               38 Release
+ 3cd059a1c46b39f29db5c0361d822b2d40ce62fb             2251 Packages.gz
+ 11e4a329793943a00ddba6a8648af67514522fd3               38 Release
 SHA256:
  6b8902afa6fdd849582c22e6403d9b7b9f79dc16c7304dc250ea64ac0be72635             4954 Packages
- ec6dfe9d40b2a2f982df8fe8c1f6687ced3ca3e16429de577337a3f90708294f             2251 Packages.gz
- c071297d11e72999f2bf7bd6ac14071a6b7b9050fde4fc7e534066aab87a197f               38 Release
+ bb86541ea55c66f3b229a841d862a46cac62f9f35e18cdf71989e2a5397fd48c             2251 Packages.gz
+ eef82950deac7b7b56aaece613e1ef16bcce43598d56f84e1c72f29459cf2452               38 Release
 SHA512:
  1883a902f8a028b3b764c63136b3c7d4179736dce822744aa94f2f9fdde5fa33b9bd29e41ce5b1b110483cd7684b6e1defb4e9478af9354c972a48e8ecde6ce5             4954 Packages
- 4b0cc8c2788a0da4d8593e99cd83d09c6e4454e626847009d93be1540d1354662a4af1d0c2567c14451764911f921ed476c54fd79f56e46560d41c39ba72e638             2251 Packages.gz
- 37c42c90204923de6d56b15cac5ea47f7aefb23b6d1269864628cd96e8f8e02437fa64b23790dac444b78ec6dc73f2649739abace9812eab7ec6217435f860b9               38 Release
+ 4572f6df81c6542fcd3f8b024a2344152eb2211fef852fb26d9b4eaa552ce479ecdd8c1a0b4b961b62d8786fc2e5e26cf3e728945a1507c3f8b8314f42e18cb6             2251 Packages.gz
+ de386fefa3c78448735b67ec43dff1b38166fe73d8524f0c2f0d340c4f3f43de15fa6dc067d42f7b22a968ac0a83b48e7eaf03bb1bdac067b9eebfbd23439ece               38 Release
