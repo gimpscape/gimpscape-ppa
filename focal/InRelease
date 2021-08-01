@@ -5,37 +5,37 @@ Origin: Ubuntu
 Label: Ubuntu 
 Suite: focal 
 Codename: focal 
-Date: Sat, 17 Jul 2021 22:57:21 +0000
+Date: Sun, 01 Aug 2021 14:44:41 +0000
 MD5Sum:
  12913bb0a92578619468e6b11ee6ea23             3994 Packages
- cb8e94eb0f20661c3f4fc9e3a8407de3             1841 Packages.gz
- 7ab12034c50e94b96441c44848956c22               38 Release
+ 58e89911782fd6f6093efd5ae009f09b             1841 Packages.gz
+ 3f71d09ed63235a519871adbae563638               38 Release
 SHA1:
  8020fe490dadb56eeffbac4873e9c341bc12236a             3994 Packages
- a7b3a8b83fe4287d2786c84d8510b5d7c35034d1             1841 Packages.gz
- e926b532785cbc4a9a8df343baedcd83a2f6cced               38 Release
+ a109d6df65fb175536ad9bb810f6ca4d8beca60f             1841 Packages.gz
+ e6131add7aa7d06a57e85361e2730e7419a31b15               38 Release
 SHA256:
  4846bc81e32b475c3ffe8569726a7f3d0b821ec69c8c1557b3ffa1d2d06f8976             3994 Packages
- 916980717d05b59eda2e6a62dcc4d50fd22211ca4f58fa282285828eabe1af92             1841 Packages.gz
- b4bfc57a7c8943dae395755f9ca6feee20c8e3a4cb441a430b1c6cb99fe78648               38 Release
+ 3f86ee394a4c3e26e9e154714e5e6a7d31917880d0d1460fe970eac051a49b31             1841 Packages.gz
+ 2dfb7ff3656c2aa832b91f38321324e1d101e6fb0a48480a88239c0b83209257               38 Release
 SHA512:
  7e6c137c7f1c39a73abe982401cec67b7760777f8ced9de3703c88e690e970328bc3d84357bc1be52b1052b3d7f633c3ed0c0fed29fad1ba7ad14886e0a024f8             3994 Packages
- 0fdee52fb4930341358b296ec5ff1bca002d2142b3150246ce54ef329300b062b884f9023989e46e94c03404f74e1d6315cbf377d2541ee966e1d5cd9e6d9537             1841 Packages.gz
- 778872cb9c21115c29bee0ec7c810239bfbc9710609d9d82609f7ace06c40cd6dfcc17179d2e28e9ec2bc4a6eba86def2e04e84c46d0f2776fba556fd259f58a               38 Release
+ d1e2ef00568c46ca24b1c29703b0047a85a189001afed102b253d592c3f3d4a375399d48491467ded83c22415ecb178bc51cbcd70f546589f0c79f9f376b1832             1841 Packages.gz
+ ac7a2d47ea477c77e28038261fe0659c4bbb6687300212d742060f9e56f66174bab7b130363b2dd32990de47e2fcd6f6fcc5a74fdf9cceefb8fe0295dde8ff96               38 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJFBAEBCgAvFiEEEDk5pWGyh4D71WJF+/Ws0bj2ne4FAmDzYFERHG1lQHJhbmlh
-YW1pbmEuaWQACgkQ+/Ws0bj2ne7MsRAA0ATorEh1mu8bfhJXhPtcMyXD9kvUBrOq
-F6vsS6uXfWj5YNsIg8NdUoTo+TUCmonFBnpwZU4Ed6TTd0SCytNV7swZiOJSReWo
-fsQhK7vY39m8o78QiX1UUCcNOfjbQEsWp3Z+9B/PzmOn9pY+/i20MQZPSHqrDRuX
-i9rCQezcHlmqCWxsg69chZsSyASOtU0kvJo9ZwQ6Lt7edsCbP06oMyvVbQIDW/Ke
-bBbyYSLP567xa+Nl1cVCIyQ1+AQ066dWFy29LhzPiAq/73OU0AY3ytKJ3Q4ri8FA
-7CbYzpi7rSngF8YVd2Zir8RJb0vCw1uHc/n1ePLbZIUT1ajEtaCg1H6rv6JrUtmP
-URvR5JDaEpuQZB2xOu7Bx/uWQHNo2xRW8NsCZ8hqErv2pP3VTUS3bH6L5F7ZId93
-Lrj5+/RByMUvyrEcsrZqJqOWG0T+m3l21T6LmnN46zZLvriiXY2Z6utaSlrdnzni
-Su7uD8URDs6jeJ0W4qwdWwaCNgQZ7UStwdiJlcPEHdHEdCkVowElluzxtCxWH9fZ
-UB/PhirZV5bACg7PL5zhApsME2UB/Oti6pv1QnEg3NmMtmRLPnKinYHuHizrzPX2
-DBnXZHlty2/MrXfpViagC6o9IeQP/9l01tjWcXpsasClif2tyxUofGkLJYUiAa81
-NCZqiU/Y4l4=
-=q70J
+iQJFBAEBCgAvFiEEEDk5pWGyh4D71WJF+/Ws0bj2ne4FAmEGs1kRHG1lQHJhbmlh
+YW1pbmEuaWQACgkQ+/Ws0bj2ne64zxAAx2D7/BevGAJhbMt7939X7pPrdluxfyLZ
+veQpRR3kk9UvuE7wlZg2XJ5G1WPqckCciylsjMhR1bFO59QIO2LlppHdc6wNH1fe
+l+5gKykZBtLqOa8WTWgKkC12kl1zhGWmgkdnt/D6zP+69P5RxbAy2vSqk0EaBs7x
+n/TL4NWhXdEzXwbmarmVy/WkEtnV/oqSxWS7U0EYsHgsxSHabKHNAIO1adMhS8Gu
+AyOESKxbbLfJNm97N5lBRitDbRGAfvuPqSqFhwszsTwGWxp6BDglB1uM6/HA7Kfp
+VoqTj+S+vrNfn/b1l2gG/bWOm1x3k8uUC/sp7q+zD1PlhSZJU13J3QIq8r9Zgpbh
+iwQQeaT30bLLhQPb8anM6V+MqfWmWDkw7XhQ4U44ZfCuExTg9MjicLEirIzCIyF7
+yHq/y0lwFV0dAvv6+cg9BLqaCiCgAYu71q4k092g/WFa7/p9T1/gjG1NKlSNCI5b
+X9PzRVZRKBLLZGH8uHgi3bf8BIv42+Srw9L8kxwZYC942bpMfa+OddRd3W9JAQS/
+7veB0i1drNVaIPK66f+uhkfnjR2lgsd2aGNwpFlj1bcuL+sqmKwKe4Kf+Zfzw56I
+tLy0JNy+v25e4eXflxT8ml2p+lMIffEMuwVYdA3QTFsMOWBIQkHPkNFUHTjNj5SU
+UOymQEK4Xls=
+=NkDj
 -----END PGP SIGNATURE-----

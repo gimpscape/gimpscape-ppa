@@ -2,20 +2,20 @@ Origin: Ubuntu
 Label: Ubuntu 
 Suite: focal 
 Codename: focal 
-Date: Sat, 17 Jul 2021 22:57:21 +0000
+Date: Sun, 01 Aug 2021 14:44:41 +0000
 MD5Sum:
  12913bb0a92578619468e6b11ee6ea23             3994 Packages
- cb8e94eb0f20661c3f4fc9e3a8407de3             1841 Packages.gz
- 7ab12034c50e94b96441c44848956c22               38 Release
+ 58e89911782fd6f6093efd5ae009f09b             1841 Packages.gz
+ 3f71d09ed63235a519871adbae563638               38 Release
 SHA1:
  8020fe490dadb56eeffbac4873e9c341bc12236a             3994 Packages
- a7b3a8b83fe4287d2786c84d8510b5d7c35034d1             1841 Packages.gz
- e926b532785cbc4a9a8df343baedcd83a2f6cced               38 Release
+ a109d6df65fb175536ad9bb810f6ca4d8beca60f             1841 Packages.gz
+ e6131add7aa7d06a57e85361e2730e7419a31b15               38 Release
 SHA256:
  4846bc81e32b475c3ffe8569726a7f3d0b821ec69c8c1557b3ffa1d2d06f8976             3994 Packages
- 916980717d05b59eda2e6a62dcc4d50fd22211ca4f58fa282285828eabe1af92             1841 Packages.gz
- b4bfc57a7c8943dae395755f9ca6feee20c8e3a4cb441a430b1c6cb99fe78648               38 Release
+ 3f86ee394a4c3e26e9e154714e5e6a7d31917880d0d1460fe970eac051a49b31             1841 Packages.gz
+ 2dfb7ff3656c2aa832b91f38321324e1d101e6fb0a48480a88239c0b83209257               38 Release
 SHA512:
  7e6c137c7f1c39a73abe982401cec67b7760777f8ced9de3703c88e690e970328bc3d84357bc1be52b1052b3d7f633c3ed0c0fed29fad1ba7ad14886e0a024f8             3994 Packages
- 0fdee52fb4930341358b296ec5ff1bca002d2142b3150246ce54ef329300b062b884f9023989e46e94c03404f74e1d6315cbf377d2541ee966e1d5cd9e6d9537             1841 Packages.gz
- 778872cb9c21115c29bee0ec7c810239bfbc9710609d9d82609f7ace06c40cd6dfcc17179d2e28e9ec2bc4a6eba86def2e04e84c46d0f2776fba556fd259f58a               38 Release
+ d1e2ef00568c46ca24b1c29703b0047a85a189001afed102b253d592c3f3d4a375399d48491467ded83c22415ecb178bc51cbcd70f546589f0c79f9f376b1832             1841 Packages.gz
+ ac7a2d47ea477c77e28038261fe0659c4bbb6687300212d742060f9e56f66174bab7b130363b2dd32990de47e2fcd6f6fcc5a74fdf9cceefb8fe0295dde8ff96               38 Release
