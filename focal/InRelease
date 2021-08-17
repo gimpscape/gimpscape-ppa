@@ -5,37 +5,37 @@ Origin: Ubuntu
 Label: Ubuntu 
 Suite: focal 
 Codename: focal 
-Date: Sun, 01 Aug 2021 22:45:41 +0000
+Date: Tue, 17 Aug 2021 03:27:30 +0000
 MD5Sum:
- 12913bb0a92578619468e6b11ee6ea23             3994 Packages
- 457e1dc7e61193145363d5fb89856580             1841 Packages.gz
- 4acab28833cbda1fcb41f2eae9c9f919               38 Release
+ 35048c66ce7afa034815133a9bf60080             4954 Packages
+ c5d8e9126fc088c5f90cf4074d7590bd             2248 Packages.gz
+ 40cf262c7118839afddec17981ba796d               38 Release
 SHA1:
- 8020fe490dadb56eeffbac4873e9c341bc12236a             3994 Packages
- 1a3753bfd5a972c23b4928ba7e302a9a02fb10dc             1841 Packages.gz
- 79fec2064d8296fe0a02a8ccdd152733ef285bde               38 Release
+ dd95cda2134991dd45d89d23b3e1b9ec85e8a124             4954 Packages
+ 2a8e18f9c2bc3bdeb945fa4156de55ac4650932a             2248 Packages.gz
+ 7617406bd98a0e9f156d90ac0bd5b2b2702843f3               38 Release
 SHA256:
- 4846bc81e32b475c3ffe8569726a7f3d0b821ec69c8c1557b3ffa1d2d06f8976             3994 Packages
- 51647324e920e7650d23de4fb68f2bad435be9797e875cf5b69d92141bb7ceae             1841 Packages.gz
- f3df72b4794d07292e741075da25c1531fc2dba5c27dbb0d9e3c408ac4dae25a               38 Release
+ 2e3159299d0cfb1bee4668902ad38a9bca8bb981c96ceeab18078bfb8c3f6481             4954 Packages
+ 344cffaf01a1e9009116ce09083d679330472d22f6f47b6d3fbf99d790fab98e             2248 Packages.gz
+ 89f028b1ec1d60d32756d459279f7040a61aa4943f9ad2bdc4dc917409144f5a               38 Release
 SHA512:
- 7e6c137c7f1c39a73abe982401cec67b7760777f8ced9de3703c88e690e970328bc3d84357bc1be52b1052b3d7f633c3ed0c0fed29fad1ba7ad14886e0a024f8             3994 Packages
- c7bce52979a9d19244b12cf53c906c5859c5c770b5115d7292307fd5bc24acbb91d9d3edc36414335ee1789fdbbc07de494a100288c7838725d25d96e6e3d0f7             1841 Packages.gz
- 61b7529de75cec06e009a0b3af69e0faa5a3dcc6897e2b352d652cb2973516c6fd4dfebacf6f73426a71564d5f0d8ba57238f6436acc4b35f61666c0f1a94135               38 Release
+ b60dc3ad2f1784f941566a52bf7950be938a8329455ec45e0b0bf1c1aa8cf19b2a38521708e9a22d1b4923d0a64c55fe4829fda44bc1d9b8d8bfbdefdc73befd             4954 Packages
+ 41eca69a1bd52cc256ede614e7cc20a3c53b708469fb2f6474cce721d02b64f88cdd5f258239abc36abd8fab61027f5b8f538657105335cd19c5d229727b6b2f             2248 Packages.gz
+ 6bcb74c857b6170fb3b634b9ed5e7372f91021be4ea059deb6a8a74bf19604da1a71b89eed84e1e9bd22e403aa7ddf39110825c45bac25310b8a799675f6110b               38 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQJFBAEBCgAvFiEEEDk5pWGyh4D71WJF+/Ws0bj2ne4FAmEHJBURHG1lQHJhbmlh
-YW1pbmEuaWQACgkQ+/Ws0bj2ne5bxhAAjea2wvJDHOZ7E1LdFgXP71wgQMcM5UAZ
-F56OBc1KoAY73Wn++ch3UGEYSdRjJWmFJY0ok2HoobPOxlwrPHeHFcEQR9or9Ub6
-tXcegbDK8IOj9UBa/AVbFwPrn4p1cFnMVbbUFCSTgKM4dIlTp6g4u6TIIlxjYwpn
-IgPL/F5rGL5g+TjpN3mf+Vjq6MTFLL9LyKsr2B129zXwNYBJzh+VLddfxHKgNJIe
-PNpN2WiaPbjuP50B2tI/zXtOUzzfMZQN0akKNsNdKkZh6E1fkYE/8u58WrXemNTE
-1GcaWkUNRBmlxiG9Nf2BAzQqlLqzrgb1tMtCgizSuWo+cwmzorkQ13f/ihrE7Ocr
-RxpQMmuGrXvORT0uXhMDyvqR9TgIrydoyjbP2fptTrbWhGDcM/3wJ9yT6IccZ6Tv
-ZsuKlzR5Q9LiC2DoecMMdd2tEbEfcE8SKiRrL76B862B5iB2HuGrXi1PB0SOHrk4
-hk/MAqgEna+3ZonLQsLFrdsAYrbvgfhgoSt8fmAo1S5ULM8r75i8CpDQDgI6jxMx
-zjWPa+0uvAbOCn0VnhEz0dZa5YE5GmQBFgEq+FW87K2xbqu1gNyYZ/WpqFqcT4ED
-YZftDxAZRKa2urIcD06o4ENuHnU3Yxa4qZzdJAG9jXBXD0KE81jP+iab3/wfw3V1
-auWcnLcIr5c=
-=FjQH
+iQJFBAEBCgAvFiEEEDk5pWGyh4D71WJF+/Ws0bj2ne4FAmEbLKMRHG1lQHJhbmlh
+YW1pbmEuaWQACgkQ+/Ws0bj2ne4XgQ//eZwueDHVqcOL9DiZrBL7PsCQmsPZfK//
+PKB022p1rq/kB2UsdeGhlQWHfWvvC9OqvMdUQ3x2COMDfX7weLg/UHvrrC1Z9usT
+r4p/k2txmoFmHWJatz1UFLeisYxNWUqWLgPWChQb//gM6k/9+DorZTa4mhTcDKu+
+4w5sR/5hEiCDCx+ln8VujAxHKdbNwpkZIyqtg1Xl7NOGu7d8kQGjOPF9i3FkwAsK
+aKDNKX/dbchOsZ7a8chBEfKK9OqE+05D463vRsmps0piyM3nJFYEAjc7YHTVldr5
+uawcRGQbLu2AbzXKwgKESmmr95KSfKMzC+6Z+RqPZWn+0JX2N9/AsYJD8Y10Ulhm
+OG4i2TUAQvjteY5PRVZnuwFRu2LSUIbVUqcQ+BvCCXS4NbLhkS23Ri9VEphAnH+d
+T17FpWcUN2t2PWGdaUJqtLBdglm+J3/rTVmCQwIuiHIJXof7MCSpkPkaefVBBxko
+Wr7z0KOVyp/SIRjCwZL+CSUvGUW5BLQtsqU5r34SJ4Fufjr1CPTcIpQ/s12RZJY2
+sHVP4yX2JgvvSLm43ssb9hglNTjNs6WSjK+VlsGXnCtee7jN3ZIZnqwJcVlGWW5K
+5DlcIq4+uxh07JOZpp/GVQwAU+Uf4aKmWEEsPkxw/6RH2C/UhAgvnw2BuF2lZtSM
+GGq4mO2qsbw=
+=mJxE
 -----END PGP SIGNATURE-----

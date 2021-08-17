@@ -1,3 +1,29 @@
+Package: citramanik-qt
+Version: 1.3.0
+Architecture: amd64
+Maintainer:
+ Rania Amina <me@raniaamina.id>,
+ Sofyan Sugianto <sofyanartem@gmail.com>
+Installed-Size: 3576
+Depends: inkscape (>= 1.0), ghostscript, python3-pyqt5, python3-pil, python3-appdirs, python3-lxml, python3:any (>= 3.7~)
+Filename: ./citramanik-qt_1.3.0_amd64.deb
+Size: 604664
+MD5sum: eaf889ce2d70875d01ccce5e6aa5a245
+SHA1: 192c75511f9b5ac8005b484b34138ee7cbd5d886
+SHA256: b1701e7cd02b1aedb5a67b430ecf7bbc08dda2f867f8800550a467ce46eae668
+Section: Graphic
+Priority: optional
+Homepage: https://github.com/devlovers-id/citramanik-qt
+Description: More Export, Less Effort
+ Citramanik is a powerful tool to help
+ your productivity with Inkscape. This tool
+ will reads ID patterns (i.e icon-small,
+ page-medium, page-big, etc) that you've set
+ and then exports them to the file format that
+ you need. Citramanik allows you to feel like
+ you are working with artboards or multiple pages
+ in Inkscape.
+
 Package: fontfinder
 Version: 2.0-1
 Architecture: amd64
