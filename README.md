@@ -26,6 +26,10 @@ Here is available packages from Gimpscape Repository
  - Key-mon ported to Python 3 by [scottkirkwood](https://github.com/scottkirkwood/key-mon)
     
     `sudo apt install keymon`
+    
+ - Citramanik-qt
+    
+    `sudo apt install citramanik-qt`
 
 
 For complete available package and details, please refer to Packages file
