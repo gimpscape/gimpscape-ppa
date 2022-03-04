@@ -45,6 +45,10 @@ For complete available package and details, please refer to Packages file
 # step 1
 curl -s --compressed "https://gimpscape.github.io/gimpscape-ppa/tools/KEY.gpg" | sudo apt-key add -
 
+# For Debian 11 and Ubuntu 22.04 user
+# Khusus untuk pengguna Debian 11, Debian Sid dan Ubuntu 22.04
+curl -s --compressed "https://gimpscape.github.io/gimpscape-ppa/tools/KEY.gpg" | gpg --dearmor | sudo tee /usr/share/keyrings/gimpsscape-keyring.gpg
+
 # step 2
 # Sesuaikan dengan distro yang digunakan!
 # Only choose compatible repo for your distro
