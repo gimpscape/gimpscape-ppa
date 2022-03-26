@@ -179,6 +179,28 @@ Description: Screencast utility that displays your keyboard and mouse status
  No longer do you need to say 'Now I'm pressing the Ctrl-D key', your students
  can just see the keystroke for themselves.
 
+Package: keymon
+Source: key-mon
+Version: 1.19-2
+Architecture: all
+Maintainer: Scott Kirkwood <scott@forusers.com>
+Installed-Size: 3114
+Depends: python3-xlib, python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, librsvg2-common
+Filename: ./keymon_1.19-2_all.deb
+Size: 99188
+MD5sum: e51dd68c1d51dff6f14cbd8c8f414435
+SHA1: b66101c1a346282224ecc6fb9b1c80452bdbfe40
+SHA256: f9e9edd0dca97578ae8bbdfb385e7d2d73e9fef1d9ddbc6a8f876b8f5c100a71
+Section: graphics
+Priority: optional
+Homepage: https://github.com/scottkirkwood/key-mon/
+Description: Screencast utility that displays your keyboard and mouse status
+ Key-mon is useful for teaching since it shows the current status of your
+ keyboard and mouse and you use them in another application.
+ .
+ No longer do you need to say 'Now I'm pressing the Ctrl-D key', your students
+ can just see the keystroke for themselves.
+
 Package: multicalendar
 Version: 1.3.1
 Architecture: amd64
